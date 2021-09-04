@@ -1,0 +1,5 @@
+mx\com\gm\peliculas\excepciones\excepciones.class
+cpjlaboratoriofinal\CPJLaboratorioFinal.class
+mx\com\gm\peliculas\negocio\CatalogoPeliculasImpl.class
+mx\com\gm\peliculas\domain\Peliculas.class
+mx\com\gm\peliculas\negocio\CatalogoPeliculas.class
